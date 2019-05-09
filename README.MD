@@ -1,6 +1,6 @@
 #Modifications
 
-* Modified the BraceMatch(), to ignore Styling.  Just match the brace ...
+* BraceMatch() now ignores Styling.  Just match the brace ...
 
 #Build Info
 
