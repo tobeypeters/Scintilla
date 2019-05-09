@@ -1,3 +1,9 @@
+#Modifications
+
+* Modified the BraceMatch(), to ignore Styling.  Just match the brace ...
+
+#Build Info
+
 README for building of Scintilla and SciTE
 
 Scintilla can be built by itself.
